@@ -1,0 +1,71 @@
+body {
+    margin: 5px;
+    background-color: rgb(224, 213, 213);
+}
+
+footer {
+    width: 1300px;
+    margin: auto;
+    background-color: rgb(118, 243, 191);
+    padding: 20px;
+    text-align: center;
+}
+
+h1,
+header {
+    text-align: center;
+}
+
+.rezim {
+    font-family: 'Open Sans';
+    font-size: 14px;
+    text-align: right;
+}
+
+h2,
+header {
+    color: black;
+    text-align: center;
+}
+
+h3,
+header {
+    color: black;
+    text-align: left;
+}
+
+header {
+    font-size: 100px;
+    text-align: center;
+}
+
+.wrapper {
+    margin: 0 auto;
+    background-color: rgb(181, 179, 175);
+}
+
+header {
+    color: blue;
+    background-color: aquamarine;
+    padding:20px;
+}
+
+main {
+    padding: 80px;
+    overflow: hidden;
+}
+
+img {
+    float: left;
+    margin-right: 20px;
+
+}
+
+.second {
+    color: green;
+}
+
+.chat {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
